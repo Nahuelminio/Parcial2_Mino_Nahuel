@@ -1,3 +1,4 @@
+PARCIAL N2 DE NAHUEL MIÑO
 # vuerouter
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -19,7 +20,7 @@ npm install
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+npm run serve
 ```
 
 ### Compile and Minify for Production
